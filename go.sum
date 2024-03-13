@@ -1,0 +1,4 @@
+github.com/isbm/go-asciitable v0.0.1 h1:UTpSX1K36PCTzvc33Z8vmrfyQTM6giwQbV+FgyIF9Ps=
+github.com/isbm/go-asciitable v0.0.1/go.mod h1:2xeM8zs2oT1By68lOcYow2iwYyVwvZkbOOSyU607Orw=
+github.com/isbm/textwrap v0.0.0-20190729202254-22edad10bd84 h1:scHwVk4GXp/7zEXLxK3cp6mNnYO9rnh95D7hLlptjdM=
+github.com/isbm/textwrap v0.0.0-20190729202254-22edad10bd84/go.mod h1:+PDhg1ZFq4tFBnroujXJrpPToQBC7BoN260sgTo/9W0=
